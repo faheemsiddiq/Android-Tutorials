@@ -1,0 +1,2 @@
+Now there is something in the file.
+Second line.
